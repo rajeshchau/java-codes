@@ -1,0 +1,12 @@
+nextline()  //string
+next //character
+nextint //int
+nextfloat  //float
+
+
+
+
+system.out.println("student heights (integers array):");
+for(int height : heights){
+    system.out.println(height);
+}
